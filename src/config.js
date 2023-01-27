@@ -36,7 +36,7 @@ export const defaultConfig = {
      * @constant
      * @type {string}
      */
-    blockWords: 'catalyst,innovator,futurist,serial entrepreneur,midas list',
+    blockWords: '*ζ*, *λ*, *μ*, *ω*, *σ*, *β*, *MAP',
     /**
      * Ask user to manually confirm all blocks
      * @constant
